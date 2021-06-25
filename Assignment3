@@ -1,0 +1,51 @@
+<html>    
+<head>       
+ <link href="C:\Users\Kayzee\Downloads\semester 2 materials\web technologies\New folder\3\color.css" rel="stylesheet" type="text/css">              
+  <script src="C:\Users\Kayzee\Downloads\semester 2 materials\web technologies\New folder\3\color.js"></script> 
+   </head>   
+ <body>       
+ <h1> <em>Colored Tableu</em></h1>      
+  <div class="Table">   
+     <table >         
+   <tr class="color">           
+     <th>Name</th>               
+ <th>Bounces</th>           
+  </tr>        
+    <tr class="color">              
+  <td>Tendai</td>              
+  <td>7</td>           
+ </tr>            
+<tr class="color">             
+   <td>Kudzai</td>              
+  <td>12</td>           
+ </tr>            
+<tr class="color">              
+  <td>Taurai</td>               
+ <td>15</td>          
+  </tr>         
+   <tr>              
+  <td>Nyika</td>             
+  <td>17</td>            
+</tr>                   
+
+ </table>        
+<table>                      
+  <th>Name</th>          
+ <th>Favourite Dish</th>       
+ <tr class="color">           
+ <td>Tendai</td>            
+<td>Sadza, Fish</td>        
+</tr>      
+  <tr class="color">           
+ <td>Kudzai</td>          
+  <td>Sadza, Chicken</td>      
+  </tr>       
+ <tr class="color">           
+ <td>Nyika</td>           
+ <td>Soup, Beef</td>      
+  </tr>        
+</table>    
+</div>    
+<button class="button button1" onclick="myFuction()">Change</button  
+  </body> 
+</html>   
